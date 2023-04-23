@@ -19,5 +19,5 @@
 
 <a align="center" href=https://github.com/anuraghazra/github-readme-stats>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acuteenvy&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acuteenvy&hide_border=true&layout=compact&theme=radical" />
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acuteenvy&hide_border=true&layout=compact&exclude_repo=acuteenvy.github.io&theme=radical" />
 </a>
