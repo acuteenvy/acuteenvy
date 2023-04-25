@@ -8,11 +8,6 @@
 /_/ /_/\___/\__, /   \__/_/ /_/\___/_/   \___(_)   
            /____/                                  
 ```
-
-[![Rust](https://img.shields.io/badge/rust-e43717?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
-[![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Bash](https://img.shields.io/badge/bash-4eaa25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash)
-
 </div>
 
 ---
