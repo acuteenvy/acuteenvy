@@ -7,5 +7,5 @@ hey
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acuteenvy&show_icons=true&hide_border=false&include_all_commits=true&show=reviews&theme=radical&border_color=343341&hide_title=true" />
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acuteenvy&hide_border=false&layout=compact&exclude_repo=acuteenvy.github.io&theme=radical&border_color=343341" />
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acuteenvy&hide=css,html&hide_border=false&layout=compact&theme=radical&border_color=343341" />
 </a>
