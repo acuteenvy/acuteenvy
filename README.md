@@ -1,6 +1,6 @@
 hey
 
-[![pgp](https://img.shields.io/badge/pgp-AB5F%20C04C%203C94%20443F-141321?labelColor=343341)](https://github.com/acuteenvy.gpg)
+[![pgp](https://img.shields.io/badge/pgp-BEE5%20EAC5%20E14B%20AF90-141321?labelColor=343341)](https://lnps.me/pgp/key.txt)
 [![matrix](https://img.shields.io/badge/matrix-@acuteenvy:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@acuteenvy:matrix.org)
 
 ---
